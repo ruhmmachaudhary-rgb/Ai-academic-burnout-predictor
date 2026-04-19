@@ -2,3 +2,5 @@ The trained models for this project are not uploaded directly to GitHub due to f
 You can access and download them using the following Google Drive link:
 stress model:
 https://drive.google.com/file/d/18SH8Kp7fvJVsAAzJowF9PkyBcx15fsiJ/view?usp=sharing
+burnout model:
+https://drive.google.com/file/d/1xRJmEbQw6zahs7XWPjeugVud3WnK_7bt/view?usp=sharing
