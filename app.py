@@ -9,6 +9,7 @@ st.title("Burnout Prediction System")
 # download model from Google Drive
 url = "https://drive.google.com/file/d/1xRJmEbQw6zahs7XWPjeugVud3WnK_7bt/view?usp=drive_link"
 gdown.download(url, "burnout_model.pkl", quiet=False)
+joblib.load("burnout_model.pkl")
 
 
 # Load models
