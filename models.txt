@@ -1,0 +1,4 @@
+The trained models for this project are not uploaded directly to GitHub due to file size limitations. 
+You can access and download them using the following Google Drive link:
+stress model:
+https://drive.google.com/file/d/18SH8Kp7fvJVsAAzJowF9PkyBcx15fsiJ/view?usp=sharing
