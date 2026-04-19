@@ -5,11 +5,13 @@ import gdown
 
 st.title(" Student Mental Health System")
 st.title("Burnout Prediction System")
+MODEL_PATH = "burnout_model.pkl"
 
-# download model from Google Drive
-url = "https://drive.google.com/uc?export=download&id=1xRJmEbQw6zahs7XWPjeugVud3WnK_7bt"
-gdown.download(url, "burnout_model.pkl", quiet=False)
-joblib.load("burnout_model.pkl")
+if not os.path.exists(MODEL_PATH):
+    url = "https://drive.google.com/uc?export=download&id=1xRJmEbQw6zahs7XWPjeugVud3WnK_7bt"
+    gdown.download(url, MODEL_PATH, quiet=False)
+
+model = joblib.load(MODEL_PATH)
 
 
 # Load models
