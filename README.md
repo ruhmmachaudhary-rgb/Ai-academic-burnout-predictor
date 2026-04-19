@@ -94,9 +94,12 @@ Add deep learning models
 Improve UI/UX of Streamlit dashboard
 Deploy on cloud (Streamlit Community Cloud)
 Add real-time student feedback system
- Author
 
-Ruhma Chaudhary
+ Author:
+
+Ruhmma Chaudhary
+
+medium blog link :https://medium.com/@ruhmmachaudhary/building-an-ai-system-to-predict-student-stress-burnout-9925fe533994
 
 
 
@@ -118,4 +121,8 @@ The trained models are not uploaded directly to GitHub due to file size limitati
 https://drive.google.com/file/d/18SH8Kp7fvJVsAAzJowF9PkyBcx15fsiJ/view?usp=drive_link
 
 After downloading, place the .pkl files in the project directory.
+
+
+
+
 
